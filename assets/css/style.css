@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1px 2;
+    text-align: center;
+}
+
+
+.nav {
+    background-color: #050000;
+    overflow: hidden;
+}
+
+
+.nav a:hover {
+    background-color: #f1eded;
+    color: rgb(243, 235, 235);
+}
+
+.products {
+    padding: 300px;
+}
+
+table {
+    width: 10%;
+    border-collapse: collapse;
+    margin: 23px 0;
+}
+
+td {
+    padding: 99px;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+p {
+    margin: 8px 0;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    width: 99%;
+    bottom: 0;
+}
+
+
+        
